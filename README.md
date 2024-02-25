@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Average .NET and TypeScript Enjoyer
+- 🔭 Currently working with : .NET (Xamarin, .NET MAUI, Unity, ASP.NET), TypeScript (React), Python
 <!--
 **slimf1/slimf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
